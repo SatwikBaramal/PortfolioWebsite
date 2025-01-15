@@ -2,14 +2,13 @@ import React from 'react'
 import html from '../assets/html.png'
 import css from '../assets/css.png'
 import javascript from '../assets/javascript.png'
-import nextjs from '../assets/nextjs.png'
 import tailwind from '../assets/tailwind.png'
 import reactimg from '../assets/react.png'
 import github from '../assets/github.png'
 import mongo from '../assets/mongo.png'
 import c from '../assets/c.png'
 import java from '../assets/java.png'
-import python from '../assets/python.png'
+
 
 
 const Experience = () => {
